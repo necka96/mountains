@@ -583,6 +583,9 @@
 }
 
 @media screen and (max-width: 767px) {
+  .header {
+    height: 100vh;
+  }
   .item {
     grid-column: span 6;
   }
